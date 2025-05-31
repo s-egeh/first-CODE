@@ -1,4 +1,4 @@
 name = "john"
-age = 19
+hour = 19
 print ="age"
 display = "name"
